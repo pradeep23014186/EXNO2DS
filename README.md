@@ -62,7 +62,7 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/8982c201-2819-433e-acd3-b20284c6f578)
 ```
-print("Unique values in 'Pclass':", dt['Pclass'].unique()
+print("Unique values in 'Pclass':", dt['Pclass'].unique())
 ```
 ![image](https://github.com/user-attachments/assets/b662194a-2e51-42be-a13c-14874efa6719)
 ```
